@@ -167,23 +167,10 @@ def jsonize(products):
     
 
 def main():
-    # print(TheGioiDiDong())
-    # print(HaNoiComputer())
-    # print(FPTShop())
     result = TheGioiDiDong() + HaNoiComputer() + FPTShop()
-    # result = HaNoiComputer()
-    
-    # result = TheGioiDiDong()
-    
-    # for i in result:
-    #     print(i)
-    print("Len: ", len(result))
     
     jsonize(result)
-    
-    # with open('products.json', 'r') as f:
-    #     tmp = json.load(f)
-    # print(tmp)
+
 
 if __name__ == "__main__":
     main()
