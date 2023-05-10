@@ -43,6 +43,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 from bs4 import BeautifulSoup
+import json
 
 # set up the Chrome driver
 options = webdriver.ChromeOptions()
@@ -56,10 +57,10 @@ def TheGioiDiDong():
     driver = webdriver.Chrome(options=options)
 
     # navigate to the website
-    url = "https://www.thegioididong.com/laptop#c=44&o=17&pi=10"
+    url = "https://www.thegioididong.com/laptop#c=44&o=17&pi=15"
     driver.get(url)
 
-    time.sleep(3)
+    time.sleep(5)
 
     ps = driver.page_source
     # print(ps)
@@ -69,11 +70,14 @@ def TheGioiDiDong():
     names_prices = []
     base_link = "https://www.thegioididong.com"
     for laptop in laptops:
+        img = laptop.find('img', {'class': 'thumb'})
+        img_src = img.attrs.get('data-src', img.attrs.get('src'))
+        # break
         name = laptop.find('h3').text.strip()
         price = laptop.find('strong', {'class': 'price'}).text
         link = laptop.find('a')['href']
         # print(link)
-        names_prices.append([name, price, base_link + link])
+        names_prices.append([img_src, name, price, base_link + link])
         # break
         # print(name + ' - ' + price)
 
@@ -97,13 +101,16 @@ def HaNoiComputer():
         ps = driver.page_source
         # print(ps)
         soup = BeautifulSoup(ps, 'html.parser')
-        laptops = soup.find_all('div', {'class': 'p-info'})
+        laptops = soup.find_all('div', {'class': 'p-component item loaded'})
         for laptop in laptops:
-            # print(laptop)
+            img = laptop.find("div", {"class": ['p-img', 'p-img ajax-loading ajax-finished']})
+            img_src = img.find("img", {"class": ["lazy", "lazy loaded"]})['data-src']
+            
             name = laptop.find("h3").text.strip()
             price = laptop.find("span", {"class", "p-price js-get-minPrice"}).text
             link = laptop.find("a")["href"]
-            names_prices.append([name, price, "https://hacom.vn" + link])
+            names_prices.append([img_src, name, price, "https://hacom.vn" + link])
+        # break
         
     # close the driver
     driver.quit()
@@ -118,38 +125,65 @@ def FPTShop():
     url = "https://fptshop.com.vn/may-tinh-xach-tay?sort=ban-chay-nhat&trang=20"
     driver.get(url)
 
-    time.sleep(3)
+    time.sleep(5)
 
     ps = driver.page_source
-    # print(ps)
     soup = BeautifulSoup(ps, 'html.parser')
-    laptops = soup.find_all('div', {'class': 'cdt-product__info'})
-    # print(laptops)
+    laptops = soup.find_all('div', {'class': ['cdt-product', 'prd-lap', 'product-sale']})
+    
     
     names_prices = []
     base_link = "https://fptshop.com.vn"
     for laptop in laptops:
         name = laptop.find('h3').text.strip()
-        try:
-            # price = laptop.find('div', {'class': 'progress pdiscount2'}).text.strip()
-            price = laptop.find('div', {'class': 'progress'}).text.strip()
-        except:
-            price = laptop.find('div', {'class': 'cdt-product__price'}).text.strip()
+        
+        # try:
+        #     price = laptop.find('div', {'class': 'progress'}).text.strip()
+        # except:
+        #     price = laptop.find('div', {'class': 'price'}).text.strip()
+        
+        price = laptop.find('div', {'class': ['price', 'progress']}).text.strip()
         price.replace(" ", "")
         link = laptop.find('a')['href']
-        names_prices.append([name, price, base_link + link])
+        names_prices.append(["None", name, price, base_link + link])
 
     # close the driver
     driver.quit()
     return names_prices
+
+def jsonize(products):
+    json_data = []
+    for product in products:
+        json_data.append(
+            {
+                'img_url': product[0],
+                'name': product[1],
+                'price': product[2],
+                'url': product[3]
+            }
+        )
+    with open('products.json', 'w') as f:
+        json.dump(json_data, f)
+    
 
 def main():
     # print(TheGioiDiDong())
     # print(HaNoiComputer())
     # print(FPTShop())
     result = TheGioiDiDong() + HaNoiComputer() + FPTShop()
-    for i in result:
-        print(i)
+    # result = HaNoiComputer()
+    
+    # result = TheGioiDiDong()
+    
+    # for i in result:
+    #     print(i)
+    print("Len: ", len(result))
+    
+    jsonize(result)
+    
+    # with open('products.json', 'r') as f:
+    #     tmp = json.load(f)
+    # print(tmp)
 
 if __name__ == "__main__":
     main()
