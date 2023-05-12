@@ -22,6 +22,13 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/522/274156/ipad-air-5-wifi-cellular-pink-thumb-600x600.jpg",
+    "name": "iPad Air 5 M1 Wifi Cellular 256GB",
+    "price": "21.990.000\u20ab",
+    "url": "https://www.thegioididong.com/may-tinh-bang/ipad-air-5-m1-wifi-cellular-256gb"
+  },
+  {
+    "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/522/248091/ipad-mini-6-wifi-starlight-1-600x600.jpg",
     "name": "iPad mini 6 WiFi",
     "price": "12.390.000\u20ab",
@@ -43,7 +50,7 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/522/222806/lenovo-tab-m8-bac-600x600.jpg",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/522/222806/lenovo-tab-a22-xam-600x600.jpg",
     "name": "Lenovo Tab M8",
     "price": "2.490.000\u20ab",
     "url": "https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m8"
@@ -78,10 +85,10 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/522/259650/ipad-pro-m1-129-inch-wifi-sliver-thumb-600x600.jpg",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/522/237699/ipad-pro-m1-129-inch-wifi-sliver-600x600.jpg",
     "name": "iPad Pro M1 12.9 inch WiFi",
-    "price": "32.690.000\u20ab",
-    "url": "https://www.thegioididong.com/may-tinh-bang/ipad-pro-m1-129-inch-wifi-512gb-2021"
+    "price": "25.490.000\u20ab",
+    "url": "https://www.thegioididong.com/may-tinh-bang/ipad-pro-m1-129-inch-wifi-128gb-2021"
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
@@ -164,7 +171,7 @@
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/522/285039/lenovo-tab-m10-gen-3-1-2-600x600.jpg",
     "name": "Lenovo Tab M10 (Gen 3)",
-    "price": "4.490.000\u20ab",
+    "price": "4.890.000\u20ab",
     "url": "https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m10-gen-3"
   },
   {
@@ -764,6 +771,20 @@
   },
   {
     "retailer": "H\u00e0 N\u1ed9i Computer",
+    "img_url": "https://hanoicomputercdn.com/media/product/250_52646_may_tinh_bang_apple_ipad_pro_11_256gb_11_inch_wifi_4g_xam_2020__1_.jpg",
+    "name": "M\u00e1y T\u00ednh B\u1ea3ng Apple Ipad Pro 11 (256GB/11 inch/Wifi/4G/X\u00e1m/2020)",
+    "price": "29.289.000\u20ab",
+    "url": "https://hacom.vn/may-tinh-bang-apple-ipad-pro-11-256gb-11-inch-wifi-4g-xam-2020"
+  },
+  {
+    "retailer": "H\u00e0 N\u1ed9i Computer",
+    "img_url": "https://hanoicomputercdn.com/media/product/250_52647_may_tinh_bang_apple_ipad_pro_11_256gb_11_inch_wifi_4g_bac_2020____1_.jpg",
+    "name": "M\u00e1y T\u00ednh B\u1ea3ng Apple Ipad Pro 11 (256GB/11 inch/Wifi/4G/B\u1ea1c/2020)",
+    "price": "29.289.000\u20ab",
+    "url": "https://hacom.vn/may-tinh-bang-apple-ipad-pro-11-256gb-11-inch-wifi-4g-bac-2020"
+  },
+  {
+    "retailer": "H\u00e0 N\u1ed9i Computer",
     "img_url": "https://hanoicomputercdn.com/media/product/250_59135_may_tinh_bang_apple_ipad_pro_11_m1_xam_2021_0000_1.jpg",
     "name": "M\u00e1y T\u00ednh B\u1ea3ng Apple Ipad Pro 11 M1 (MHWE3ZA/A) (2TB/11.0 inch/Wifi/5G/X\u00e1m/2021)",
     "price": "57.559.000\u20ab",
@@ -810,20 +831,6 @@
     "name": "M\u00e1y T\u00ednh B\u1ea3ng Apple Ipad Pro 11 M1 (MHR23ZA/A) (2TB/11.0 inch/Wifi/X\u00e1m/2021)",
     "price": "53.019.000\u20ab",
     "url": "https://hacom.vn/may-tinh-bang-apple-ipad-pro-11-m1-mhr23za-a-wifi-xam-2021"
-  },
-  {
-    "retailer": "H\u00e0 N\u1ed9i Computer",
-    "img_url": "https://hanoicomputercdn.com/media/product/250_59110_may_tinh_bang_apple_ipad_10_2_bac_2020_0004_5.jpg",
-    "name": "M\u00e1y T\u00ednh B\u1ea3ng Apple Ipad 10.2 (MYMJ2ZA/A) (32GB/10.2 inch/Wifi/4G/B\u1ea1c/2020)",
-    "price": "12.519.000\u20ab",
-    "url": "https://hacom.vn/may-tinh-bang-apple-ipad-10.2-mymj2za-a-wifi-4g-bac-2020"
-  },
-  {
-    "retailer": "H\u00e0 N\u1ed9i Computer",
-    "img_url": "https://hanoicomputercdn.com/media/product/250_59126_may_tinh_bang_apple_ipad_pro_11_m1_bac_2021_0000_1.jpg",
-    "name": "M\u00e1y T\u00ednh B\u1ea3ng Apple Ipad Pro 11 M1 (MHR33ZA/A) (2TB/11.0 inch/Wifi/B\u1ea1c/2021)",
-    "price": "53.019.000\u20ab",
-    "url": "https://hacom.vn/may-tinh-bang-apple-ipad-pro-11-m1-mhr33za-a-wifi-bac-2021"
   },
   {
     "retailer": "H\u00e0 N\u1ed9i Computer",
@@ -964,13 +971,6 @@
     "name": "iPad Pro 12.9 2022 M2 WiFi 128GB",
     "price": "27.990.000 \u20ab",
     "url": "https://fptshop.com.vn/may-tinh-bang/ipad-pro-129-2022-m2-wifi?dung-luong=128gb"
-  },
-  {
-    "retailer": "FPT Shop",
-    "img_url": "None",
-    "name": "Samsung Galaxy Tab S8 Ultra 5G",
-    "price": "26.060.000 \u20ab",
-    "url": "https://fptshop.com.vn/may-tinh-bang/samsung-galaxy-tab-s8-ultra"
   },
   {
     "retailer": "FPT Shop",
