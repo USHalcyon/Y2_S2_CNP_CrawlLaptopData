@@ -87,7 +87,7 @@
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/42/262650/samsung-galaxy-a23-cam-thumb-600x600.jpg",
     "name": "Samsung Galaxy A23",
-    "price": "4.890.000\u20ab",
+    "price": "4.690.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a23"
   },
   {
@@ -99,7 +99,7 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/240259/iphone-14-128gb-vang-thumbnew-600x600.jpeg",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/240259/iPhone-14-thumb-do-600x600.jpg",
     "name": "iPhone 14",
     "price": "19.490.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/iphone-14"
@@ -143,7 +143,7 @@
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/42/291623/xiaomi-12t-thumb-600x600.jpg",
     "name": "Xiaomi 12T 5G 256GB",
-    "price": "11.490.000\u20ab",
+    "price": "10.490.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/xiaomi-12t-256gb"
   },
   {
@@ -227,7 +227,7 @@
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/42/264060/samsung-galaxy-s23-600x600.jpg",
     "name": "Samsung Galaxy S23 5G",
-    "price": "19.990.000\u20ab",
+    "price": "18.990.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-s23-5g"
   },
   {
@@ -239,7 +239,7 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-White-600x600.jpg",
     "name": "Samsung Galaxy S22 Ultra 5G",
     "price": "18.890.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-s22-ultra"
@@ -304,7 +304,7 @@
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/42/246195/samsung-galaxy-a73-5g-xanh-thumb-600x600.jpg",
     "name": "Samsung Galaxy A73 5G 128GB",
-    "price": "10.340.000\u20ab",
+    "price": "9.540.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a73"
   },
   {
@@ -337,17 +337,10 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/303583/samsung-galaxy-a34-5g-thumb-600x600.jpg",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/303583/samsung-galaxy-a34-5g-bac-thumb-600x600.jpg",
     "name": "Samsung Galaxy A34 5G",
     "price": "7.930.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a34-5g-128gb"
-  },
-  {
-    "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/246196/Samsung-Galaxy-A53-xanh-thumb-600x600.jpg",
-    "name": "Samsung Galaxy A53 5G 128GB",
-    "price": "7.740.000\u20ab",
-    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a53"
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
@@ -365,9 +358,16 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/246196/Samsung-Galaxy-A53-xanh-thumb-600x600.jpg",
+    "name": "Samsung Galaxy A53 5G 128GB",
+    "price": "7.240.000\u20ab",
+    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a53"
+  },
+  {
+    "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/42/299734/xiaomi-redmi-12-pro-4g-xanh-thumb-600x600.jpg",
     "name": "Xiaomi Redmi Note 12 Pro 4G",
-    "price": "D\u1ef1 ki\u1ebfn: 7.190.000\u20ab",
+    "price": "7.190.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/xiaomi-redmi-note-12-pro-4g"
   },
   {
@@ -379,16 +379,9 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/246199/samsung-galaxy-a33-5g-thumb-new-1-600x600.jpg",
-    "name": "Samsung Galaxy A33 5G 6GB",
-    "price": "6.740.000\u20ab",
-    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a33"
-  },
-  {
-    "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/42/273335/xiaomi-redmi-note12s-den-thumb-600x600.jpg",
     "name": "Xiaomi Redmi Note 12S",
-    "price": "D\u1ef1 ki\u1ebfn: 6.690.000\u20ab",
+    "price": "6.690.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/xiaomi-redmi-note-12s"
   },
   {
@@ -407,10 +400,10 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/272016/sam-sung-galaxy-a23-5g-den-thumb-600x600.jpg",
-    "name": "Samsung Galaxy A23 5G",
-    "price": "5.540.000\u20ab",
-    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a23-5g"
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/246199/samsung-galaxy-a33-5g-thumb-new-1-600x600.jpg",
+    "name": "Samsung Galaxy A33 5G 6GB",
+    "price": "5.940.000\u20ab",
+    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a33"
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
@@ -428,17 +421,17 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/272016/sam-sung-galaxy-a23-5g-den-thumb-600x600.jpg",
+    "name": "Samsung Galaxy A23 5G",
+    "price": "5.240.000\u20ab",
+    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a23-5g"
+  },
+  {
+    "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/42/270360/OPPO-A76-\u0111en-600x600.jpg",
     "name": "OPPO A76",
     "price": "5.190.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/oppo-a76-4g"
-  },
-  {
-    "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/271721/samsung-galaxy-a14-5g-nau-thumb-600x600.jpg",
-    "name": "Samsung Galaxy A14 5G",
-    "price": "5.190.000\u20ab",
-    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a14-5g"
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
@@ -463,17 +456,17 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/271721/samsung-galaxy-a14-5g-nau-thumb-600x600.jpg",
+    "name": "Samsung Galaxy A14 5G",
+    "price": "4.890.000\u20ab",
+    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a14-5g"
+  },
+  {
+    "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/42/249102/Vivo-y33s-yellow-thumb-600x600.jpg",
     "name": "Vivo Y33s",
     "price": "4.840.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/vivo-y33s"
-  },
-  {
-    "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/292770/samsung-galaxy-a14-black-thumb-600x600.jpg",
-    "name": "Samsung Galaxy A14 4G",
-    "price": "4.690.000\u20ab",
-    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a14"
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
@@ -491,13 +484,6 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/262402/Samsung-Galaxy-A13-cam-thumb-600x600.jpg",
-    "name": "Samsung Galaxy A13",
-    "price": "4.090.000\u20ab",
-    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a13-4g"
-  },
-  {
-    "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/42/282090/oppo-a57-den-thumb-600x600.jpg",
     "name": "OPPO A57",
     "price": "4.090.000\u20ab",
@@ -512,6 +498,13 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/262402/samsung-galaxy-a13-xanh-thumb-600x600.jpg",
+    "name": "Samsung Galaxy A13",
+    "price": "3.690.000\u20ab",
+    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a13-4g"
+  },
+  {
+    "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/42/303937/nokia-g22-xanh-thumb-1-2-600x600.jpg",
     "name": "Nokia G22",
     "price": "3.690.000\u20ab",
@@ -519,17 +512,24 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/288404/oppo-a17k-vang-thumb-\u0103-600x600.jpg",
-    "name": "OPPO A17K",
-    "price": "3.290.000\u20ab",
-    "url": "https://www.thegioididong.com/dtdd/oppo-a17k"
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/292770/samsung-galaxy-a14-black-thumb-600x600.jpg",
+    "name": "Samsung Galaxy A14 4G",
+    "price": "4.190.000\u20ab",
+    "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-a14"
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/261888/realme-c35-thumb-new-600x600.jpg",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/261888/realme-c35-black-thumb-600x600.jpg",
     "name": "realme C35",
     "price": "2.990.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/realme-c35"
+  },
+  {
+    "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/288404/oppo-a17k-vang-thumb-\u0103-600x600.jpg",
+    "name": "OPPO A17K",
+    "price": "2.990.000\u20ab",
+    "url": "https://www.thegioididong.com/dtdd/oppo-a17k"
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
@@ -542,7 +542,7 @@
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
     "img_url": "https://cdn.tgdd.vn/Products/Images/42/302655/xiaomi-redmi-note-12-plus-xanh-duong-thumb-600x600.jpg",
     "name": "Xiaomi Redmi A2+",
-    "price": "D\u1ef1 ki\u1ebfn: 2.790.000\u20ab",
+    "price": "2.790.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/xiaomi-redmi-a2-plus"
   },
   {
@@ -561,7 +561,7 @@
   },
   {
     "retailer": "Th\u1ebf gi\u1edbi di \u0111\u1ed9ng",
-    "img_url": "https://cdn.tgdd.vn/Products/Images/42/249720/Vivo-y15s-2021-xanh-den-660x600.jpg",
+    "img_url": "https://cdn.tgdd.vn/Products/Images/42/249720/Vivo-y15s-2021-xanh-thuy-tinh-660x600.jpg",
     "name": "Vivo Y15 series",
     "price": "2.490.000\u20ab",
     "url": "https://www.thegioididong.com/dtdd/vivo-y15s-2021"
@@ -745,14 +745,14 @@
     "retailer": "FPT Shop",
     "img_url": "None",
     "name": "Xiaomi Redmi 10A 3GB-64GB",
-    "price": "2.790.000 \u20ab",
+    "price": "2.590.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-10a?dung-luong=3gb-64gb"
   },
   {
     "retailer": "FPT Shop",
     "img_url": "None",
     "name": "iPhone 11 64GB",
-    "price": "10.299.000 \u20ab",
+    "price": "10.280.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/iphone-11-64gb"
   },
   {
@@ -822,7 +822,7 @@
     "retailer": "FPT Shop",
     "img_url": "None",
     "name": "Samsung Galaxy A14 4G",
-    "price": "3.960.000 \u20ab",
+    "price": "3.670.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-a14"
   },
   {
@@ -836,7 +836,7 @@
     "retailer": "FPT Shop",
     "img_url": "None",
     "name": "OPPO A17k 3GB-64GB",
-    "price": "3.290.000 \u20ab",
+    "price": "2.990.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/oppo-a17k"
   },
   {
@@ -857,14 +857,14 @@
     "retailer": "FPT Shop",
     "img_url": "None",
     "name": "OPPO A57 4GB-128GB",
-    "price": "4.390.000 \u20ab",
+    "price": "4.190.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/oppo-a57-4g?dung-luong=128gb"
   },
   {
     "retailer": "FPT Shop",
     "img_url": "None",
     "name": "Xiaomi Redmi 12C 4GB - 64GB",
-    "price": "2.990.000 \u20ab",
+    "price": "2.890.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-12c"
   },
   {
@@ -1003,16 +1003,16 @@
   {
     "retailer": "FPT Shop",
     "img_url": "None",
-    "name": "Xiaomi Redmi 10 2022 4GB-128GB",
+    "name": "Vivo T1x 4GB-64GB",
     "price": "3.890.000 \u20ab",
-    "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-10-2022"
+    "url": "https://fptshop.com.vn/dien-thoai/vivo-t1x"
   },
   {
     "retailer": "FPT Shop",
     "img_url": "None",
-    "name": "Vivo T1x 4GB-64GB",
+    "name": "Xiaomi Redmi 10 2022 4GB-128GB",
     "price": "3.890.000 \u20ab",
-    "url": "https://fptshop.com.vn/dien-thoai/vivo-t1x"
+    "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-10-2022"
   },
   {
     "retailer": "FPT Shop",
@@ -1032,14 +1032,14 @@
     "retailer": "FPT Shop",
     "img_url": "None",
     "name": "iPhone 14 Pro Max 128GB",
-    "price": "26.440.000 \u20ab",
+    "price": "26.430.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/iphone-14-pro-max?dung-luong=128gb"
   },
   {
     "retailer": "FPT Shop",
     "img_url": "None",
     "name": "iPhone 14 Pro 128GB",
-    "price": "24.750.000 \u20ab",
+    "price": "24.780.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/iphone-14-pro?dung-luong=128gb"
   },
   {
@@ -1059,22 +1059,8 @@
   {
     "retailer": "FPT Shop",
     "img_url": "None",
-    "name": "OPPO Find X5 Pro 12GB - 256GB",
-    "price": "21.990.000 \u20ab",
-    "url": "https://fptshop.com.vn/dien-thoai/oppo-find-x5-pro"
-  },
-  {
-    "retailer": "FPT Shop",
-    "img_url": "None",
-    "name": "Asus ROG 6 DIABLO 16GB-512GB",
-    "price": "21.990.000 \u20ab",
-    "url": "https://fptshop.com.vn/dien-thoai/asus-rog-6-diablo"
-  },
-  {
-    "retailer": "FPT Shop",
-    "img_url": "None",
     "name": "iPhone 14 Plus 128GB",
-    "price": "21.790.000 \u20ab",
+    "price": "21.780.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/iphone-14-plus?dung-luong=128gb"
   },
   {
@@ -1087,9 +1073,9 @@
   {
     "retailer": "FPT Shop",
     "img_url": "None",
-    "name": "OPPO Find N2 Flip",
-    "price": "19.990.000 \u20ab",
-    "url": "https://fptshop.com.vn/dien-thoai/oppo-find-n2-flip"
+    "name": "Asus ROG 6 DIABLO 16GB-512GB",
+    "price": "20.990.000 \u20ab",
+    "url": "https://fptshop.com.vn/dien-thoai/asus-rog-6-diablo"
   },
   {
     "retailer": "FPT Shop",
@@ -1101,8 +1087,22 @@
   {
     "retailer": "FPT Shop",
     "img_url": "None",
+    "name": "OPPO Find X5 Pro 12GB - 256GB",
+    "price": "19.990.000 \u20ab",
+    "url": "https://fptshop.com.vn/dien-thoai/oppo-find-x5-pro"
+  },
+  {
+    "retailer": "FPT Shop",
+    "img_url": "None",
+    "name": "OPPO Find N2 Flip",
+    "price": "19.990.000 \u20ab",
+    "url": "https://fptshop.com.vn/dien-thoai/oppo-find-n2-flip"
+  },
+  {
+    "retailer": "FPT Shop",
+    "img_url": "None",
     "name": "iPhone 14 128GB",
-    "price": "19.190.000 \u20ab",
+    "price": "19.280.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/iphone-14?dung-luong=128gb"
   },
   {
@@ -1130,7 +1130,7 @@
     "retailer": "FPT Shop",
     "img_url": "None",
     "name": "iPhone 13 128GB",
-    "price": "16.990.000 \u20ab",
+    "price": "16.880.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/iphone-13?dung-luong=128gb"
   },
   {
@@ -1185,6 +1185,13 @@
   {
     "retailer": "FPT Shop",
     "img_url": "None",
+    "name": "OPPO Reno7 Z 5G 8GB - 128GB",
+    "price": "7.490.000 \u20ab",
+    "url": "https://fptshop.com.vn/dien-thoai/oppo-reno7-z"
+  },
+  {
+    "retailer": "FPT Shop",
+    "img_url": "None",
     "name": "Vivo V25e 8GB - 128GB",
     "price": "7.490.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/vivo-v25e"
@@ -1192,16 +1199,16 @@
   {
     "retailer": "FPT Shop",
     "img_url": "None",
-    "name": "OPPO Reno7 Z 5G 8GB - 128GB",
-    "price": "7.290.000 \u20ab",
-    "url": "https://fptshop.com.vn/dien-thoai/oppo-reno7-z"
+    "name": "Samsung Galaxy A53 5G 128GB",
+    "price": "6.790.000 \u20ab",
+    "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-a53?dung-luong=128-gb"
   },
   {
     "retailer": "FPT Shop",
     "img_url": "None",
-    "name": "Samsung Galaxy A53 5G 128GB",
-    "price": "6.790.000 \u20ab",
-    "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-a53?dung-luong=128-gb"
+    "name": "Xiaomi Redmi Note 12S 8GB-256GB",
+    "price": "6.690.000 \u20ab",
+    "url": "https://fptshop.com.vn/dien-thoai/xiaomi-redmi-note-12s"
   },
   {
     "retailer": "FPT Shop",
@@ -1242,7 +1249,7 @@
     "retailer": "FPT Shop",
     "img_url": "None",
     "name": "Samsung Galaxy A14 5G",
-    "price": "4.930.000 \u20ab",
+    "price": "4.630.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-a14-5g"
   },
   {
@@ -1262,16 +1269,16 @@
   {
     "retailer": "FPT Shop",
     "img_url": "None",
-    "name": "Vivo Y02s 3GB-32GB",
+    "name": "OPPO A16k 3GB-32GB",
     "price": "2.790.000 \u20ab",
-    "url": "https://fptshop.com.vn/dien-thoai/vivo-y02s"
+    "url": "https://fptshop.com.vn/dien-thoai/oppo-a16k"
   },
   {
     "retailer": "FPT Shop",
     "img_url": "None",
-    "name": "OPPO A16k 3GB-32GB",
+    "name": "Vivo Y02s 3GB-32GB",
     "price": "2.790.000 \u20ab",
-    "url": "https://fptshop.com.vn/dien-thoai/oppo-a16k"
+    "url": "https://fptshop.com.vn/dien-thoai/vivo-y02s"
   },
   {
     "retailer": "FPT Shop",
@@ -1403,7 +1410,7 @@
     "retailer": "FPT Shop",
     "img_url": "None",
     "name": "Masstel Izi 25 4G",
-    "price": "600.000 \u20ab",
+    "price": "550.000 \u20ab",
     "url": "https://fptshop.com.vn/dien-thoai/masstel-izi-25"
   },
   {
