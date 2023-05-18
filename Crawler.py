@@ -42,7 +42,7 @@ def TheGioiDiDong(product_type_link, prd_attrs):
         name = product.find('h3').text.strip()
         price = product.find('strong', {'class': 'price'}).text
         link = product.find('a')['href']
-        data_result.append(["Thế giới di động", img_src, name, price, base_link + link])
+        data_result.append(["tgdd", img_src, name, price, base_link + link])
         # break
 
     return data_result    
@@ -68,7 +68,7 @@ def HaNoiComputer(base_url, prd_attrs, no_pages):
             name = product.find("h3").text.strip()
             price = product.find("span", {"class", "p-price js-get-minPrice"}).text
             link = product.find("a")["href"]
-            data_result.append(["Hà Nội Computer", img_src, name, price, "https://hacom.vn" + link])
+            data_result.append(["hnc", img_src, name, price, "https://hacom.vn" + link])
         # break
         
     return data_result    
@@ -98,7 +98,7 @@ def FPTShop(product_type_link, prd_attrs):
             continue
         
         link = product.find('a')['href']
-        data_result.append(["FPT Shop", img_src, name, price, base_link + link])
+        data_result.append(["FPT", img_src, name, price, base_link + link])
 
     return data_result
 
@@ -129,7 +129,7 @@ def PhongVu(base_url, prd_attrs, no_pages):
                 continue       
             
             link = product.find("a")["href"]
-            data_result.append(["Phong Vũ", img_src, name, price, "https://phongvu.vn/" + link])
+            data_result.append(["phongvu", img_src, name, price, "https://phongvu.vn/" + link])
 
     return data_result   
 
